@@ -16,6 +16,11 @@
         <activity
             android:name=".first_way.first_way.MainActivity"
             android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".second_way.MainActivity2"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
